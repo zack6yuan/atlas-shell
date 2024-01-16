@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#this script is displaying best school tent imes
 
 count=1
 
